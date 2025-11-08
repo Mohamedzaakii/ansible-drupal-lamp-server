@@ -21,7 +21,6 @@ ansible-drupal-lamp-server/
 │  ├── db.png
 │  ├── playbook-success1.png
 │  ├── playbook-success2.png
-│  ├── tables.png
 │  ├── apache-status.png
 │  └── mariadb-status.png
 └── README.md
@@ -86,6 +85,7 @@ mysql_drupal_password: "encrypted_password"
 ## 📝 License
 
 MIT License
+
 
 
 
