@@ -1,0 +1,5 @@
+---
+drupal_core_path: "/var/www/drupal"
+domain: "drupal" 
+drupal_site_name: "Drupal Test"
+php_version: "8.2"
