@@ -21,14 +21,14 @@ ansible-drupal-lamp-server/
 │  ├── db.png
 │  ├── playbook-success1.png
 │  ├── playbook-success2.png
-│  ├── playbook-success3.png
+│  ├── tables.png
 │  ├── apache-status.png
 │  └── mariadb-status.png
 └── README.md
 ```
 ## 🖼️ Demonstration
 - #### Ansible Playbook Execution
-![Playbook-Success](docs/playbook-success1.png) 
+![Playbook-Success](docs/playbook-sucess1.png) 
 - #### Drupal Website
 ![Site](docs/site.png) 
 - #### Database Verification
@@ -86,6 +86,7 @@ mysql_drupal_password: "encrypted_password"
 ## 📝 License
 
 MIT License
+
 
 
 
