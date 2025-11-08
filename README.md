@@ -28,7 +28,7 @@ ansible-drupal-lamp-server/
 ```
 ## 🖼️ Demonstration
 - #### Ansible Playbook Execution
-![Playbook-Success](docs/playbook-sucess1.png) 
+![Playbook-Success](docs/playbook-success1.png) 
 - #### Drupal Website
 ![Site](docs/site.png) 
 - #### Database Verification
@@ -86,6 +86,7 @@ mysql_drupal_password: "encrypted_password"
 ## 📝 License
 
 MIT License
+
 
 
 
